@@ -1,28 +1,18 @@
 ---
 title: "Contacts"
-description: "Here you can find our contanct data."
-date: 2020-10-06T08:49:55+00:00
-lastmod: 2020-10-06T08:49:55+00:00
 draft: false
 images: []
 ---
 
-English version of Contacts Page.
+Our email is [finec@odin.mgimo.ru](mailto:finec@odin.mgimo.ru)
 
-143007, Московская область, г. Одинцово, ул. Ново-Cпортивная, д.3
+We welcome correspondence on academic cooperation and student exchanges,
+new course development, joint research intitiatives and other matters. 
 
-+7 495 661-71-22
+Faculty office: <a href="tel:+74956617175">+7 (495) 661-71-75</a>
 
-info@odin.mgimo.ru
+Location: [3, Novo-Sportivnaya, Odintsovo, Moscow Region 143005](https://yandex.ru/maps/-/CCQdZMwaPA)
 
-Белорусская выход к пригородным поездам, далее электричкой до станции Одинцово, далее пешком
+Site tour:
 
-Беговая выход к пригородным поездам, далее электричкой до станции Одинцово, далее пешком
-
-Фили выход к пригородным поездам, далее электричкой до станции Одинцово, далее пешком
-
-Кунцевская выход к пригородным поездам, далее электричкой до станции Одинцово, далее пешком
-
-Парк Победы далее автобусом 339 до станции Дубрава, далее пешком
-
-Славянский бульвар далее автобусом 339 до станции Дубрава, далее пешком
+{{< youtube twanN25NqR0 >}}
