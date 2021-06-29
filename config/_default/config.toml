@@ -1,4 +1,4 @@
-baseURL = "https://finec-mgimo.github.io/"
+baseURL = "https://finec.mgimo.ru/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
@@ -92,7 +92,10 @@ rel  = "sitemap"
   contributor = "contributors"
 
 [permalinks]
-  blog = "/blog/:title/"
+  blog = "/blog/:slug/"
+
+#[permalinks]
+#  post = "/:slug/"
 
 [module]
   [[module.mounts]]

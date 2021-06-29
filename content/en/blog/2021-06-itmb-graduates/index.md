@@ -3,12 +3,13 @@ title: "Наши выпускники: ИТМБ 2021 — защита выпус
 lead: "Четыре первые работы: цифровые пломбы для транспортных коридоров, 
 общий интеллект (AGI) в коммерческом банке, снижение рисков трансфертного ценообразования, 
 бизнес-аналитика в сельском хозяйстве."
-slug: "2021-itmb-graduates"
+slug: 2021-itmb-graduates
 date: 2021-06-24
 draft: false
 ---
 
-Защита проходила в режиме онлайн, мы рассказываем вам о первых работах на защите 24 июня 2021 года.
+Защита проходила в режиме онлайн, мы рассказываем вам о первых
+работах на защите 24 июня 2021 года.
 
 <img src="chagaeva.png" alt="Чагаева" class="border-0 rounded-circle float-left mr-3 pt-2">
 
@@ -19,9 +20,9 @@ draft: false
 
 Ссылка по теме: [Мониторинг транзитных перевозок с использованием навигационных пломб](https://www.youtube.com/watch?v=OxlKFuJxMow)
 
-<img src="andronov.png" alt="Андронов" class="border-0 rounded-circle float-right mr-3 pt-2">
+<img src="gusev.png" alt="Андронов" class="border-0 rounded-circle float-right mr-3 pt-2">
 
-Никита Андронов поставил перед собой сложную задачу оценить эффекты и риски
+Владимир Гусев поставил перед собой сложную задачу оценить эффекты и риски
 от возможного перехода к системам общего интеллекта (AGI) в коммерческом банке, в случае их появления.
 
 Ссылка по теме: [An executive primer on artificial general intelligence](https://www.mckinsey.com/business-functions/operations/our-insights/an-executive-primer-on-artificial-general-intelligence#)
